@@ -150,7 +150,6 @@ django-formset {
 		}
 
 		select, textarea {
-			background-image: none !important;
 
 			&.dj-concealed {
 				// HTML fields replaced by counterpart: 'django-selectize', 'django-dual-selector' or 'django-richtext'
